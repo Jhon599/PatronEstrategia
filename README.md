@@ -19,3 +19,8 @@ Para implementar Strategy debemos realizar los siguientes pasos:
 ## Diagrama
 
 ![PatronEstrategia](https://github.com/Jhon599/PatronEstrategia/assets/143898470/352ce216-3732-41c8-ab41-79b2469e0f14)
+
+## Tecnologia
+- JAVA Maven
+- Editor DIA
+- IntelliJ IDEA
